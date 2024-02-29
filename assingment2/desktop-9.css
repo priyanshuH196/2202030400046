@@ -1,0 +1,127 @@
+.ella-olsson-opbjwbccaeo-unspla-icon {
+  position: absolute;
+  top: 0;
+  left: -21px;
+  width: 1461px;
+  height: 1024px;
+  object-fit: cover;
+}
+.desktop-9-child {
+  position: absolute;
+  top: 184px;
+  left: 337px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 654px;
+  height: 724px;
+}
+.desktop-9-item {
+  position: absolute;
+  top: 752px;
+  left: 446px;
+  background-color: var(--color-coral-200);
+  width: 151px;
+  height: 42px;
+}
+.desktop-9-inner {
+  position: absolute;
+  top: 474px;
+  left: 418px;
+  width: 493px;
+  height: 3px;
+  object-fit: contain;
+}
+.login-page,
+.username {
+  position: absolute;
+  font-weight: 800;
+}
+.login-page {
+  top: 212px;
+  left: 433px;
+  font-size: 82px;
+  color: var(--color-black);
+}
+.username {
+  top: 376px;
+  left: 410px;
+}
+.desktop-9-child1 {
+  position: absolute;
+  top: 475px;
+  left: 409.5px;
+  border-top: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 494px;
+  height: 1px;
+}
+.password {
+  position: absolute;
+  top: 546px;
+  left: 410px;
+  font-weight: 800;
+}
+.desktop-9-child2 {
+  position: absolute;
+  top: 644.5px;
+  left: 409.5px;
+  border-top: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 494px;
+  height: 1px;
+}
+.desktop-9-child3 {
+  position: absolute;
+  top: 767px;
+  left: 480px;
+  background: linear-gradient(
+    180deg,
+    rgba(188, 151, 151, 0),
+    rgba(217, 217, 217, 0)
+  );
+  width: 151px;
+  height: 42px;
+}
+.desktop-9-child4,
+.submit {
+  position: absolute;
+  top: 752px;
+}
+.submit {
+  left: 469px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  color: var(--color-whitesmoke-200);
+}
+.desktop-9-child4 {
+  left: calc(50% - 42px);
+  width: 150px;
+  height: 42px;
+}
+.forgot-password,
+.reset {
+  position: absolute;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.reset {
+  top: 752px;
+  left: calc(50% - 11px);
+  font-size: var(--font-size-13xl);
+}
+.forgot-password {
+  top: 859px;
+  left: 572px;
+  font-size: var(--font-size-base);
+}
+.desktop-9 {
+  width: 100%;
+  position: relative;
+  background-color: transparent;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}

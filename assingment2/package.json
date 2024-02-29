@@ -1,0 +1,14 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./*.html ./project1/*.html",
+    "build": "parcel build ./*.html ./project1/*.html --dist-dir ./build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}

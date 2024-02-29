@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-istok-web: "Istok Web";
+  --font-abeezee: ABeeZee;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-45xl: 64px;
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-17xl: 36px;
+  --font-size-77xl: 96px;
+  --font-size-29xl: 48px;
+  --font-size-base: 16px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fffdfd;
+  --color-gray-200: #7e7e7e;
+  --color-gainsboro-100: #e8e8e8;
+  --color-gainsboro-200: #d9d9d9;
+  --color-gainsboro-300: rgba(217, 217, 217, 0.56);
+  --color-black: #000;
+  --color-snow: #fbf3f3;
+  --color-coral-100: #f37249;
+  --color-coral-200: #f66c41;
+  --color-whitesmoke-100: #f7f5f5;
+  --color-whitesmoke-200: #f5f5f5;
+  --color-whitesmoke-300: #eee;
+  --color-dimgray: #545454;
+  --color-limegreen: #5ce42c;
+  --color-darkslategray-100: rgba(52, 52, 52, 0.46);
+  --color-darkgray-100: #a1a1a1;
+  --color-darkgray-200: #a39e9e;
+  --color-darkgray-300: #9c9c9c;
+  --color-silver: #c0baba;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+}

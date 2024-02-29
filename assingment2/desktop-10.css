@@ -1,0 +1,146 @@
+.desktop-10-child {
+  position: absolute;
+  top: 169px;
+  left: 338px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 8px 4px 17.4px 9px rgba(0, 0, 0, 0.28);
+  width: 654px;
+  height: 724px;
+}
+.desktop-10-item {
+  position: absolute;
+  top: 688.5px;
+  left: 421.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 494px;
+  height: 1px;
+}
+.email {
+  position: absolute;
+  top: 530px;
+  left: 422px;
+}
+.desktop-10-inner {
+  position: absolute;
+  top: 748px;
+  left: 432px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-coral-200);
+  width: 180px;
+  height: 50px;
+}
+.desktop-10-child1 {
+  position: absolute;
+  top: 502.5px;
+  left: 421.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 494px;
+  height: 1px;
+}
+.username1 {
+  position: absolute;
+  top: 344px;
+  left: 422px;
+  font-weight: 800;
+}
+.desktop-10-child2 {
+  position: absolute;
+  top: 409.5px;
+  left: 421.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 494px;
+  height: 1px;
+}
+.password1 {
+  position: absolute;
+  top: 437px;
+  left: 422px;
+  font-weight: 800;
+}
+.desktop-10-child3 {
+  position: absolute;
+  top: 595.5px;
+  left: 421.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 494px;
+  height: 1px;
+}
+.desktop-10-child4 {
+  position: absolute;
+  top: 767px;
+  left: 480px;
+  background: linear-gradient(
+    180deg,
+    rgba(188, 151, 151, 0),
+    rgba(217, 217, 217, 0)
+  );
+  width: 151px;
+  height: 42px;
+}
+.submit1 {
+  position: absolute;
+  top: 755px;
+  left: 469px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.desktop-10-child5 {
+  position: absolute;
+  top: 748px;
+  left: calc(50% - 44px);
+  border-radius: var(--br-3xs);
+  width: 180px;
+  height: 50px;
+}
+.login,
+.reset1 {
+  position: absolute;
+  font-weight: 500;
+}
+.reset1 {
+  top: 755px;
+  left: calc(50% - 0px);
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.login {
+  top: 824px;
+  left: 611px;
+  font-size: 28px;
+  color: var(--color-black);
+}
+.create-an-account,
+.phone-no {
+  position: absolute;
+  font-weight: 800;
+}
+.create-an-account {
+  top: 208px;
+  left: calc(50% - 268px);
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.phone-no {
+  top: 623px;
+  left: 422px;
+}
+.desktop-10 {
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url(../public/desktop--10@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-inter);
+}
